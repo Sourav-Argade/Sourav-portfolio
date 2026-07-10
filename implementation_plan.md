@@ -1,6 +1,6 @@
 # Implementation Plan - Portfolio Website for Sourav Argade
 
-This plan details the implementation of a professional, interactive portfolio website for Sourav Argade, a Senior Backend Engineer. The design is inspired by the cyberpunk/AI aesthetic of [akankshavarade.github.io](https://akankshavarade.github.io/), customized to highlight Sourav's backend engineering, microservices, databases, and cloud expertise.
+This plan details the implementation of a professional, interactive portfolio website for Sourav Argade, a Senior Backend Engineer. The design is inspired by the cyberpunk/AI, customized to highlight Sourav's backend engineering, microservices, databases, and cloud expertise.
 
 The website will be built as a single-page React app inside the existing Vite workspace. This will allow running it locally with `npm run dev` and generating a optimized production build via `npm run build` that can be deployed to GitHub Pages or any static hosting service.
 
